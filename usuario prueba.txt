@@ -1,0 +1,26 @@
+master 
+5031 7557 3453 0604
+123
+11/25
+
+visa
+4509 9535 6623 3704
+123
+11/25
+
+american
+3711 803032 57522
+1234
+11/25
+
+
+usuario comprador
+TEST62328/TEST24774
+contraseña
+VWsRdX6HT9/d2mgyxSCmV
+
+usuario vendedor
+TEST21748
+contraseña
+uXNGiSAXcC
+
